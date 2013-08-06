@@ -38,15 +38,15 @@ h2, h3 {
 }
 
 h3 {
-  color: #999;
+  color: red ;
 }
 
 h5 {
   margin: 20px 0 5px;
-  color: #ccc;
+  color: green;
   text-transform: uppercase;
   font-weight: bold;
-  font-size: 12px;
+  font-size: 22px;
 }
 
 a {
