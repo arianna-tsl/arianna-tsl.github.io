@@ -30,7 +30,7 @@ aside {
 body {
   background: ../img/background.png;
   background-attachment: fixed;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Times New Roman', Arial, sans-serif;
 }
 
 h2, h3 {
@@ -38,7 +38,7 @@ h2, h3 {
 }
 
 h3 {
-  color: red ;
+  color: green ;
 }
 
 h5 {
