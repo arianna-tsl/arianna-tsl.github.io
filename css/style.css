@@ -44,9 +44,9 @@ h3 {
 h5 {
   margin: 20px 0 5px;
   color: green;
-  text-transform: lowercase;
+  text-transform: uppercase;
   font-weight: bold;
-  font-size: 12px;
+  font-size: 22px;
 }
 
 a {
