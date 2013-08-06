@@ -7,7 +7,7 @@ header {
   left: 0;
   padding: 10px;
   border-bottom: 2px solid #ccc;
-  background: red;
+  background: white;
 }
 
 aside {
@@ -28,7 +28,7 @@ aside {
 /* Typography */
 
 body {
-  background: ../img/background.png;
+  background: black;
   background-attachment: fixed;
   font-family: 'Times New Roman', Arial, sans-serif;
 }
